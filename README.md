@@ -1,6 +1,6 @@
 # npmtest-grunt-jsdoc
 
-#### test coverage for  [grunt-jsdoc (v2.1.0)](https://github.com/krampstudio/grunt-jsdoc)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-jsdoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-jsdoc.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-jsdoc)
+#### basic test coverage for  [grunt-jsdoc (v2.1.0)](https://github.com/krampstudio/grunt-jsdoc)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-jsdoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-jsdoc.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-jsdoc)
 
 #### Integrates jsdoc3 generation into your Grunt build
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-jsdoc/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-jsdoc/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-jsdoc/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-jsdoc/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-jsdoc/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-jsdoc/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-jsdoc/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-jsdoc/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-jsdoc/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-jsdoc/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-jsdoc/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-jsdoc/build/coverage.html/index.html)
 
